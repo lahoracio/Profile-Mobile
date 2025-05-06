@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Projeto profile</string>
+    <string name="Details">Details</string>
+    <string name="nome">Lara Machado</string>
+    <string name="ux_designer">Sr. UI/UX Designer</string>
+    <string name="email">Email</string>
+    <string name="call">Call</string>
+    <string name="whatssap">Whatssap</string>
+    <string name="favorite">Favorite</string>
+</resources>
