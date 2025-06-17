@@ -8,4 +8,16 @@
     <string name="whatssap">Whatssap</string>
     <string name="favorite">Favorite</string>
     <string name="logo_description">Logo description</string>
+    <string name= "official">Official</string>
+    <string name= "personal">Personal</string>
+    <string name= "emailFic">michael.mitc@example.com</string>
+    <string name= "personalFic">michael@example.com</string>
+    <string name= "phone"> Phone Number</string>
+    <string name= "mobile">Mobile</string>
+    <string name= "number">(209)555-0104</string>
+    <string name= "team">Team</string>
+    <string name= "teamName">Project Operation Team</string>
+    <string name= "leads">Leads by</string>
+    <string name= "leadsName">Darrell Steward</string>
+    <string name= "add">Add to contact</string>
 </resources>
